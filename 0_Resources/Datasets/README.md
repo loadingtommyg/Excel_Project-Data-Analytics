@@ -1,6 +1,6 @@
 # 💿 Datasets
 
-This folder is a consolidated list of datasets used throughout the course.
+This folder is a consolidated list of datasets used throughout the project.
 
 ## Datasets
 
@@ -10,7 +10,7 @@ This is a small sample dataset containing only 20 rows. It is useful for quick t
 ---
 
 ### 2. [`data_jobs_salary_all.xlsx`](data_jobs_salary_all.xlsx)
-This Excel file focuses on the salary information of data science roles. It provides salary estimates across different companies, locations, and job titles. **This is the primary dataset used in the majority of the course.**
+This Excel file focuses on the salary information of data science roles. It provides salary estimates across different companies, locations, and job titles.  
 
 ---
 
